@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  margin: 50px auto;
+  height: 500px;
+  width: 200px;
+  box-shadow: 0 0 8px;
+  border: 1px solid black;
+  border-radius: 20%;
+  background: black
+}
+
+.light {
+  height: 150px;
+  border: 1px solid black;
+  width: 150px;
+  border-radius: 50%;
+  margin: 10px auto;
+  background-color: #111;
+
+}
